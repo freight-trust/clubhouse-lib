@@ -10,6 +10,8 @@
   A library for interacting with the Clubhouse REST API
 </p>
 
+Forked for adding updates to the offical clubhouse-lib
+
 <p align="center">
   <a href="https://www.npmjs.org/package/clubhouse-lib">
     <img src="https://badge.fury.io/js/clubhouse-lib.svg" alt="Current npm package version." />

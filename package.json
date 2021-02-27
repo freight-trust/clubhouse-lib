@@ -23,7 +23,7 @@
     "build:flow": "scripts/generate-flow-types.sh && node scripts/convert-import-from-types",
     "lint": "eslint 'src/**/*.{js,ts}'",
     "test": "jest",
-    "prepublishOnly": "yarn build"
+    "prepublishOnly": "npm run-script build:typescript"
   },
   "dependencies": {
     "fetch-everywhere": "^1.0.5",
