@@ -11,7 +11,7 @@
 </p>
 
 Forked for adding updates to the offical clubhouse-lib
-
+[🔗 https://www.npmjs.com/package/clubhouse-lib-api](hhttps://www.npmjs.com/package/clubhouse-lib-api)
 <p align="center">
   <a href="https://www.npmjs.org/package/clubhouse-lib">
     <img src="https://badge.fury.io/js/clubhouse-lib.svg" alt="Current npm package version." />
